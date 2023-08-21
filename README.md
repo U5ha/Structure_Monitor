@@ -1,9 +1,9 @@
 # Structure_Monitor
 Monitoring Structural health based on Vibration data of buildings and other structures.
 
-**System States Tracking**
+**System States Tracking** \\
 The Kalman Filter is an efficient optimal estimator (a set of mathematical equations) that provides a recursive computational methodology for estimating the state of a discrete-data controlled process from measurements that are typically noisy, while providing an estimate of the
-uncertainty of the estimates (Thomson and Emery (2014)). 
+uncertainty of the estimates (Thomson and Emery (2014)). \\
 Kalman Filter is widely used nowadays in the structural health monitoring field, where the system response for the kth step can be estimated using the data upto (k − 1)th step. This estimated data is updated after the kth measurement by giving proper weightages to the estimated and measured data.
 • The initial guess of the state vector and the covariance is taken according to the question.
 • The estimation of the state estimate and covariance matrix, for the next step is done using the data upto previous step.

@@ -1,0 +1,4 @@
+HW2 measurements:
+First Column (in seconds): Time step 
+Second column (in m/s^2): Noisy absolute acceleration of Story 1
+Third Column (in m/s^2): Noisy absolute acceleration of Story 2

@@ -1,0 +1,10 @@
+set(0,'defaultaxesfontname','Helvetica')
+set(0,'defaulttextfontname','Helvetica')
+set(0,'defaultaxesfontsize',15)
+set(0,'defaultaxesfontweight','Bold')
+set(0,'defaulttextfontsize',15)
+set(0,'defaulttextfontweight','Bold')
+set(0,'DefaultLineLineWidth',1.2)
+set(0,'DefaultFigureColor', 'white');
+set(0,'defaultAxesXGrid','on')
+set(0,'defaultAxesYGrid','on')
